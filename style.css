@@ -1,0 +1,12 @@
+section h1{
+  background-color: rgb(143, 233, 170);
+}
+header{
+  text-align: center;
+}
+header h1:hover{
+  color: rgb(55, 211, 28);
+}
+.primary {
+  background-color: blueviolet;
+}
